@@ -1,8 +1,8 @@
 #!/usr/bin/python
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
-# Name: Menu-númerico
+# Name: Menu-numérico
 # version: 1.0.0
-# Developer: 7H3uz
+# Developer: TheMariano
 # Created: 19/03/2021
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++#
 
@@ -19,7 +19,7 @@ print (" ██╔████╔██║█████╗  ██╔██╗
 print (" ██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║╚════╝██╔██╗  ")
 print (" ██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝     ██╔╝ ██╗ ")
 print (" ╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝      ╚═╝  ╚═╝ ")
-print ("Create By : 7H3uz")
+print ("Create By : TheMariano")
 print
 print ("           [1]> 1 - Escolha             ")
 print ("           [2]> 2 - Escolha              ")
